@@ -6,4 +6,4 @@
 |                                                                  |   |   |
 |                                                                  |   |   |
 
-<img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img style="width:10%;" src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
