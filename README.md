@@ -3,7 +3,7 @@
   color: #ffffff;
   border-bottom-color: rgb(24, 38, 55) !important;
 }
-[Read more](http://www.stackoverflow.com "read more"{#link-sf .btn-read-more} )
+[Read more](http://www.stackoverflow.com "read more" style="color:blue;"){#link-sf .btn-read-more} 
 # Page 1
 
 ***
