@@ -1,3 +1,8 @@
+[class*="tableRow-"] { 
+  background: rgb(0, 0, 0) !important;
+  color: #ffffff;
+  border-bottom-color: rgb(24, 38, 55) !important;
+}
 # Page 1
 
 ***
